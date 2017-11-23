@@ -6,8 +6,15 @@ Alvaro
 4. git clone //url repositorio
 5. git add . 
 6. git commit -a -m "Creado fichero de autores"
-7. git push origin master ( el valor de las variables que configuré )
+7. git push origin master ( el valor de las variables que configurÃ© )
 8. git pull //para actualizar repositorio
+
+Para volver a un commit anterior
+
+git checkout -b <codigo del commit (Se ve en github)
+
+- CUIDADO, al hacer pull puede ser que pierda los cambios que tenga en local
+	por eso lo primero que hay que hacer es un pull, porque puede sobrescribir el fichero
 
 // Si tengo varios directorios, dentro de la carpeta .git del directorio esta el fichero
 	de configuracion con la url del repositorio en cuestion
