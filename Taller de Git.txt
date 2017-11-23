@@ -1,3 +1,5 @@
+Alvaro
+
 1. git
 2. git config
 3. Crear repositorio (mejor via grafica GitHub)
